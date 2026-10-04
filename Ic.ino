@@ -4,8 +4,8 @@
 // ==========================================
 // CONFIGURAÇÕES DE REDE E THINGSPEAK
 // ==========================================
-const char* ssid = "Rede_Wifi";       // Substitua pelo nome da sua rede
-const char* password = "Senha_Wifi";   // Substitua pela senha da sua rede
+const char* ssid = "MONTRESOL";       // Substitua pelo nome da sua rede
+const char* password = "g28022004";   // Substitua pela senha da sua rede
 
 unsigned long myChannelNumber = 3465873;      // Substitua pelo seu Channel ID (número)
 const char * myWriteAPIKey = "40S9VR89O1068B9A";   // Substitua pela sua Write API Key (entre aspas)
